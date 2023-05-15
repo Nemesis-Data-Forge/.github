@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[profile/svg_1684071580254.png](https://github.com/Nemesis-Data-Forge/.github/blob/main/profile/profile/svg_1684071580254.png)" alt="Nemesis Data Forge Logo" width="200" height="200">
+  <img src="https://github.com/Nemesis-Data-Forge/.github/blob/main/profile/profile/svg_1684071580254.png" alt="Nemesis Data Forge Logo" width="200" height="200">
 </p>
 
 # Nemesis Data Forge
