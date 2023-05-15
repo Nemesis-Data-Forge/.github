@@ -1,14 +1,10 @@
-<p align="center">
-  <img src="svg_1684071580254.png" alt="Nemesis Data Forge Logo" width="200" height="200">
-</p>
-
 # Nemesis Data Forge
 
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![GitHub Stars](https://img.shields.io/github/stars/your-username/Nemesis-Data-Forge.svg)](https://github.com/your-username/Nemesis-Data-Forge/stargazers)
-[![GitHub Issues](https://img.shields.io/github/issues/your-username/Nemesis-Data-Forge.svg)](https://github.com/your-username/Nemesis-Data-Forge/issues)
+Welcome to Nemesis Data Forge organization on GitHub! We are a community-driven open-source project focused on developing a flexible and scalable data integration platform.
 
-Welcome to Nemesis Data Forge, a powerful and flexible open-source data integration platform. It simplifies the integration and consolidation of various data sources and systems, providing a seamless experience for managing and transforming data.
+## Our Mission
+
+Our mission is to empower organizations to seamlessly integrate and consolidate their data from various sources and systems. We strive to provide a comprehensive set of tools and functionalities to simplify the data integration process and enhance data governance.
 
 ## Features
 
