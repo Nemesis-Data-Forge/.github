@@ -20,10 +20,11 @@ d
 
 We welcome contributions from the community to make Nemesis Data Forge even better! To contribute. Feel free to submit bug reports, feature requests, and pull requests.
 
-## Support
+## Connect with Us
 
-For any questions or issues, please open an issue on the [issue tracker](https://github.com/Nemesis-Data-Forge/issues).
+- Email: jenner.j.hou@gmail.com
 
+Join us on this exciting journey to revolutionize data integration and unlock the true potential of your data!
 ## License
 
 Nemesis Data Forge is released under the [MIT License](LICENSE).
